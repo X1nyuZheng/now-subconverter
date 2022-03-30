@@ -170,6 +170,7 @@ remove_old_emoji = true
 #emoji = '🏳️‍🌈'
 import = "snippets/emoji.toml"
 
+
 # [[custom_groups]]
 # name = "Auto"
 # type = "url-test"
